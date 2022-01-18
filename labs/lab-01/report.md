@@ -23,7 +23,14 @@ After reading this chapter, I was shocked that this happened because it sounds l
 ![](/labs/lab-01/brew_install_tree.png)
 ![](/labs/lab-01/man_tree.png)
 
-## Step 4: Regex
+## Step 4: Regex Problems
+![](/labs/lab-01/regex_problems/regex1.png)
+![](/labs/lab-01/regex_problems/regex2.png)
+![](/labs/lab-01/regex_problems/regex3.png)
+![](/labs/lab-01/regex_problems/regex4.png)
+![](/labs/lab-01/regex_problems/regex5.png)
+![](/labs/lab-01/regex_problems/regex6.png)
+![](/labs/lab-01/regex_problems/regex7.png)
 
 ## Step 5: Blockly
 ![](/labs/lab-01/blockly.png)
