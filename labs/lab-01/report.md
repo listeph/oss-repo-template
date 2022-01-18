@@ -18,12 +18,14 @@
 After reading this chapter, I was shocked that this happened because it sounds like something that could happen to me or my friends. It reminds me that it's important to think about the implications of what you create. Just because you intend for it to be used with your purpose in mind, you should still talk to others about the ways in which your technology can be abused. It's like how Facebook started out as just a college project to connect students on campus as well. But now it's grown to be the big company it is, and has to take responsibility for its privacy and antitrust violations. Or it reminds me of how Albert Einstein's idealogy was that of a pacifist, and he was not happy that his research was instrumental in facilitating the development of the atomic bomb that would later be used in Hiroshima. Regardless, I don't agree with the RIAA in this situation and unsurprisingly, the justice system is broken when there was no way for Jesse to defend himself without money. I ended up researching what happened to Jesse Jordan afterwards because I felt bad, and I'm glad to see that he ended up raising $12k back on a personal website.
 
 ## Step 3: Linux Commands, Grep, and Tree
-![](/labs/lab-01/linux_commands.png)
-![](/labs/lab-01/grep.png)
-![](/labs/lab-01/brew_install_tree.png)
-![](/labs/lab-01/man_tree.png)
+![](/labs/lab-01/step3/linux_commands.png)
+![](/labs/lab-01/step3/grep.png)
+![](/labs/lab-01/step3/brew_install_tree.png)
+![](/labs/lab-01/step3/man_tree.png)
 
 ## Step 4: Regex Problems
+
+### Regex Problems
 ![](/labs/lab-01/regex_problems/regex1.png)
 ![](/labs/lab-01/regex_problems/regex2.png)
 ![](/labs/lab-01/regex_problems/regex3.png)
@@ -31,6 +33,12 @@ After reading this chapter, I was shocked that this happened because it sounds l
 ![](/labs/lab-01/regex_problems/regex5.png)
 ![](/labs/lab-01/regex_problems/regex6.png)
 ![](/labs/lab-01/regex_problems/regex7.png)
+
+### Regex Crosswords
+![](/labs/lab-01/regex_crosswords/cw1.png)
+![](/labs/lab-01/regex_crosswords/cw2.png)
+![](/labs/lab-01/regex_crosswords/cw3.png)
+![](/labs/lab-01/regex_crosswords/cw4.png)
 
 ## Step 5: Blockly
 ![](/labs/lab-01/blockly.png)
