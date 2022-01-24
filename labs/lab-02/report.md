@@ -2,10 +2,11 @@
 Link to repo: https://github.com/listeph/OSSLab2
 <br />
 gitk: ![](/labs/lab-02/images/gitk.png)
-git log: ![](/labs/lab-02/images/gitLog.png)
+git log: <br /> ![](/labs/lab-02/images/gitLog.png)
 
 ## Part 2: Forking
 Link to fork: https://github.com/listeph/Spoon-Knife
+<br />
 Git Branching activity:
 ![](/labs/lab-02/images/branch1.png)
 ![](/labs/lab-02/images/branch2.png)
