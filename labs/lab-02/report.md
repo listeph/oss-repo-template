@@ -1,3 +1,5 @@
+# Lab 02 Report - Git
+
 ## Part 1: Init Repo and Branches
 Link to repo: https://github.com/listeph/OSSLab2
 <br />
