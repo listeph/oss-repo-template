@@ -4,7 +4,6 @@
 ## Step 1: Discord
 ![](/labs/lab-01/general_message.png)
 
-
 ## Step 2: Reading Assignments
 
 ### How to Answer Questions in a Helpful Way Suggestions
