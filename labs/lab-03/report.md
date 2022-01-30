@@ -15,8 +15,8 @@ Repo Wiki Link: https://github.com/listeph/oss-repo-template/wiki/Project-Idea
 
 
 ### Latex
-- ```$\sqrt{1 + 2 \sqrt{1 + 3 \sqrt{1 + 4 \sqrt{1 + \cdots}}}}$``` becomes $\sqrt{1 + 2 \sqrt{1 + 3 \sqrt{1 + 4 \sqrt{1 + \cdots}}}}$
-- ```$\sqrt{2}^{\sqrt{2}^{\sqrt{2}^{\sqrt{2} \cdots}}}$``` becomes $\sqrt{2}^{\sqrt{2}^{\sqrt{2}^{\sqrt{2} \cdots}}}$
+- generated formulae: \
+    ![](/labs/lab-03/images/generated-formulae.png)
 - Hadamard matrix of size 4: \
     ![](/labs/lab-03/images/Hadamard-matrix.png)
 
