@@ -1,0 +1,3 @@
+/Users/steph/Desktop/oss-repo-template/labs/lab-05/cmake-step1/build/CMakeFiles/rebuild_cache.dir
+/Users/steph/Desktop/oss-repo-template/labs/lab-05/cmake-step1/build/CMakeFiles/edit_cache.dir
+/Users/steph/Desktop/oss-repo-template/labs/lab-05/cmake-step1/build/CMakeFiles/Tutorial.dir
