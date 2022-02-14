@@ -1,0 +1,4 @@
+/Users/steph/Desktop/oss-repo-template/labs/lab-05/cmake-step4/install/bin/Tutorial
+/Users/steph/Desktop/oss-repo-template/labs/lab-05/cmake-step4/install/include/TutorialConfig.h
+/Users/steph/Desktop/oss-repo-template/labs/lab-05/cmake-step4/install/lib/libMathFunctions.a
+/Users/steph/Desktop/oss-repo-template/labs/lab-05/cmake-step4/install/include/MathFunctions.h

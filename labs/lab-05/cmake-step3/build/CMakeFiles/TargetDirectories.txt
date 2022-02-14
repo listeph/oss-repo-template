@@ -1,0 +1,6 @@
+/Users/steph/Desktop/oss-repo-template/labs/lab-05/cmake-step3/build/CMakeFiles/rebuild_cache.dir
+/Users/steph/Desktop/oss-repo-template/labs/lab-05/cmake-step3/build/CMakeFiles/edit_cache.dir
+/Users/steph/Desktop/oss-repo-template/labs/lab-05/cmake-step3/build/CMakeFiles/Tutorial.dir
+/Users/steph/Desktop/oss-repo-template/labs/lab-05/cmake-step3/build/MathFunctions/CMakeFiles/rebuild_cache.dir
+/Users/steph/Desktop/oss-repo-template/labs/lab-05/cmake-step3/build/MathFunctions/CMakeFiles/edit_cache.dir
+/Users/steph/Desktop/oss-repo-template/labs/lab-05/cmake-step3/build/MathFunctions/CMakeFiles/MathFunctions.dir
