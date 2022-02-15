@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -dynamiclib -Wl,-headerpad_max_install_names -o libDynamicBlock.dylib -install_name @rpath/libDynamicBlock.dylib CMakeFiles/DynamicBlock.dir/block.c.o 

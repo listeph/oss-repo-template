@@ -62,3 +62,17 @@ Running `./Tutorial` using the updated mysqrt:
 
 Exercise Questions:
 - Now that we are using the built-in log and exp utilities, `mysqrt` gives results with accuracy on par with `sqrt` even when we run `Tutorial` on the larger number 4294967296.
+
+### Lab Build Systems Example
+Code links:
+- the [top-level program's `CMakeLists.txt`](https://github.com/listeph/oss-repo-template/tree/master/labs/lab-05/Lab-BuildSystemsExample/CMakeLists.txt) and the [block library's `CMakeLists.txt`](https://github.com/listeph/oss-repo-template/tree/master/labs/lab-05/Lab-BuildSystemsExample/source/CMakeLists.txt)
+- the [static program's resulting MakeFile](https://github.com/listeph/oss-repo-template/tree/master/labs/lab-05/Lab-BuildSystemsExample/static_build/Makefile)
+- the [dynamic program's resulting MakeFile](https://github.com/listeph/oss-repo-template/tree/master/labs/lab-05/Lab-BuildSystemsExample/dynamic_build/Makefile)
+
+Building, running, and sizing of `./static_block`:
+- ![](/labs/lab-05/images/example-static-block.png)
+- ![](/labs/lab-05/images/file-sizes-static.png)
+
+Building, running, and sizing of `./dynamic_block`:
+- ![](/labs/lab-05/images/example-dynamic-block.png)
+- ![](/labs/lab-05/images/file-sizes-dynamic.png)

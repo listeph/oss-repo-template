@@ -1,0 +1,6 @@
+/Users/steph/Desktop/oss-repo-template/labs/lab-05/Lab-BuildSystemsExample/dynamic_build/CMakeFiles/rebuild_cache.dir
+/Users/steph/Desktop/oss-repo-template/labs/lab-05/Lab-BuildSystemsExample/dynamic_build/CMakeFiles/edit_cache.dir
+/Users/steph/Desktop/oss-repo-template/labs/lab-05/Lab-BuildSystemsExample/dynamic_build/CMakeFiles/dynamic_block.dir
+/Users/steph/Desktop/oss-repo-template/labs/lab-05/Lab-BuildSystemsExample/dynamic_build/source/CMakeFiles/rebuild_cache.dir
+/Users/steph/Desktop/oss-repo-template/labs/lab-05/Lab-BuildSystemsExample/dynamic_build/source/CMakeFiles/edit_cache.dir
+/Users/steph/Desktop/oss-repo-template/labs/lab-05/Lab-BuildSystemsExample/dynamic_build/source/CMakeFiles/DynamicBlock.dir
