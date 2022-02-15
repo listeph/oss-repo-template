@@ -65,6 +65,7 @@ Exercise Questions:
 
 ### Lab Build Systems Example
 Code links:
+- my [custom Makefile](https://github.com/listeph/oss-repo-template/tree/master/labs/lab-05/Lab-BuildSystemsExample/Makefile)
 - the [top-level program's `CMakeLists.txt`](https://github.com/listeph/oss-repo-template/tree/master/labs/lab-05/Lab-BuildSystemsExample/CMakeLists.txt) and the [block library's `CMakeLists.txt`](https://github.com/listeph/oss-repo-template/tree/master/labs/lab-05/Lab-BuildSystemsExample/source/CMakeLists.txt)
 - the [static program's resulting MakeFile](https://github.com/listeph/oss-repo-template/tree/master/labs/lab-05/Lab-BuildSystemsExample/static_build/Makefile)
 - the [dynamic program's resulting MakeFile](https://github.com/listeph/oss-repo-template/tree/master/labs/lab-05/Lab-BuildSystemsExample/dynamic_build/Makefile)
