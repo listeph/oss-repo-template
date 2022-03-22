@@ -1,7 +1,7 @@
 # Lab 07 Report - Testing and Continuous Integration
 
 ### Checkpoint 1: Getting Started
-Build complete message: 
+Build complete message: \
 ![](/labs/lab-07/images/check1-build-complete.png)
 ![](/labs/lab-07/images/check1-build-complete-pt2.png)
 
