@@ -67,4 +67,4 @@ Curl query for finding movies whose titles come after "L" in alphabetic order (w
 Curl command for creating the `title` query index / B-tree in `hello-world`: \
 ![](/labs/lab-09/images/check4-index.png) \
 Re-running the query for finding movies whose titles are alphabetically larger than "L": \
-![](/labs/lab-09/images/check4-index-2.png) \
+![](/labs/lab-09/images/check4-index-2.png)
