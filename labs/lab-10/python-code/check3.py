@@ -95,25 +95,6 @@ print('\nTest accuracy:', test_acc)
 # attach a softmax layer to convert the model's linear outputs—logits—to probabilities
 probability_model = tf.keras.Sequential([model, 
                                          tf.keras.layers.Softmax()])
-# predict the label for each image in the testing set into a prediction array of 10 numbers
-predictions = probability_model.predict(test_images)
-# Plot the first X test images, their predicted labels, and the true labels.
-num_rows = 5
-num_cols = 3
-num_images = num_rows*num_cols
-'''
-plt.figure(figsize=(2*2*num_cols, 2*num_rows))
-# MODIFICATION: for i in range(num_images):
-for i in range(9000,9015):
-  # MODIFICATION: plt.subplot(num_rows, 2*num_cols, 2*i+1)
-  plt.subplot(num_rows, 2*num_cols, 2*(i - 9000)+1)
-  plot_image(i, predictions[i], test_labels, test_images)
-  # MODIFICATION: plt.subplot(num_rows, 2*num_cols, 2*i+2)
-  plt.subplot(num_rows, 2*num_cols, 2*(i-9000)+2)
-  plot_value_array(i, predictions[i], test_labels)
-plt.tight_layout()
-plt.show()
-'''
 
 
 # ----------------------------------- Use the Trained Model -------------------------------------
@@ -123,19 +104,19 @@ test_images = []
 # pic 1 code
 img = Image.open("images/pic1.jpg")
 resized_img = img.resize((28,28))
-grayscale_img = ImageOps.grayscale(resized_img)
+grayscale_img = ImageOps.invert(ImageOps.grayscale(resized_img))
 grayscale_img.save("images/pic1-edited.jpg")
 test_images.append(np.array(grayscale_img))
 # pic 2 code
 img2 = Image.open("images/pic2.jpg")
 resized_img2 = img2.resize((28,28))
-grayscale_img2 = ImageOps.grayscale(resized_img2)
+grayscale_img2 = ImageOps.invert(ImageOps.grayscale(resized_img2))
 grayscale_img2.save("images/pic2-edited.jpg")
 test_images.append(np.array(grayscale_img2))
 # pic 3 code
 img3 = Image.open("images/pic3.jpg")
 resized_img3 = img3.resize((28,28))
-grayscale_img3 = ImageOps.grayscale(resized_img3)
+grayscale_img3 = ImageOps.invert(ImageOps.grayscale(resized_img3))
 grayscale_img3.save("images/pic3-edited.jpg")
 test_images.append(np.array(grayscale_img3))
 
@@ -148,4 +129,4 @@ predictions = probability_model.predict(np_test_images)
 print("Resulting predictions array: ")
 print(predictions)
 for i in range(1,4):
-  print("Prediction for pic{i}.jpg is " + class_names[np.argmax(predictions[i-1])] + " and the true label is " + class_names[np_true_labels[i-1]])
+  print("Prediction for pic" + str(i) + ".jpg is " + class_names[np.argmax(predictions[i-1])] + " and the true label is " + class_names[np_true_labels[i-1]])
